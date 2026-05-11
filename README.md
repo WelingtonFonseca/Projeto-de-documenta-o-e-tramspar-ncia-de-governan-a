@@ -2,9 +2,13 @@
 
 > Repositório privado de dados e documentos do projeto **Gestão de Vendas Dados**.
 > Mantido conforme as diretrizes de Governança de Dados da FIAP — Turma 1TSCF/1TSCPW-2026.
-Nomes: Welington Fonseca da Silva RM572046
-       Jonatas Menezes da Silva   RM 569091
-       Mateus Mazili              RM 571386
+Nomes:
+
+Welington Fonseca da Silva RM572046
+
+Jonatas Menezes da Silva   RM 569091
+   
+Mateus Mazili              RM 571386
 
 ---
 
