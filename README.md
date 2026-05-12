@@ -119,4 +119,10 @@ Toda alteração relevante é rastreável via:
 
 ---
 
-*Documento mantido por: Jonatas Menezes da Silva — RM 569091 | Turma 1TSCF/1TSCPW-2026 | FIAP*
+*Documento mantido por:
+
+Welington Fonseca da Silva RM572046
+
+Jonatas Menezes da Silva RM 569091
+
+Mateus Mazili RM 571386 | Turma 1TSCF/1TSCPW-2026 | FIAP*
