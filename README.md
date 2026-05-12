@@ -1,4 +1,4 @@
-# 📊 Gestão de Vendas Dados — Repositório de Governança
+#  Gestão de Vendas Dados — Repositório de Governança
 
 > Repositório privado de dados e documentos do projeto **Gestão de Vendas Dados**.
 > Mantido conforme as diretrizes de Governança de Dados da FIAP — Turma 1TSCF/1TSCPW-2026.
@@ -12,7 +12,7 @@ Mateus Mazili              RM 571386
 
 ---
 
-## 📁 Estrutura de Pastas
+##  Estrutura de Pastas
 
 ```
 gestao-vendas-dados/
@@ -23,7 +23,7 @@ gestao-vendas-dados/
 
 ---
 
-## 🔐 1. Controle de Acesso
+##  1. Controle de Acesso
 
 | Perfil           | Permissão          | Descrição                                              |
 |------------------|--------------------|--------------------------------------------------------|
@@ -39,7 +39,7 @@ gestao-vendas-dados/
 
 ---
 
-## 🔄 2. Controle de Versão
+##  2. Controle de Versão
 
 ### Estratégia de Branching
 
@@ -69,12 +69,12 @@ audit: atualiza log de acesso - abril/2026
 
 ### Tags de Versão
 
-- Seguir padrão **SemVer**: `v1.0.0`, `v1.1.0`, `v2.0.0`
-- Toda entrega formal deve ser tagueada e vinculada a uma Release no GitHub.
+ Seguir padrão **SemVer**: `v1.0.0`, `v1.1.0`, `v2.0.0`
+ Toda entrega formal deve ser tagueada e vinculada a uma Release no GitHub.
 
 ---
 
-## 🔍 3. Processo de Auditoria
+##  3. Processo de Auditoria
 
 ### Trilha de Auditoria (Audit Trail)
 
@@ -96,26 +96,26 @@ Toda alteração relevante é rastreável via:
 
 ### Aprovação de Pull Requests
 
-- Mínimo de **1 reviewer** obrigatório para branches `feature/*`
-- Mínimo de **2 reviewers** para merges em `main`
-- PRs sem aprovação não podem ser merged (branch protection ativado)
+ Mínimo de **1 reviewer** obrigatório para branches `feature/*`
+ Mínimo de **2 reviewers** para merges em `main`
+ PRs sem aprovação não podem ser merged (branch protection ativado)
 
 ---
 
-## 📋 4. Política de Backup
+##  4. Política de Backup
 
-- Dados críticos em `/dados` devem ser exportados mensalmente para armazenamento externo seguro.
-- Scripts em `/fontes` são versionados pelo próprio Git (histórico = backup).
-- Documentos em `/documentacao` devem ter cópia em repositório ou drive corporativo.
+ Dados críticos em `/dados` devem ser exportados mensalmente para armazenamento externo seguro.
+ Scripts em `/fontes` são versionados pelo próprio Git (histórico = backup).
+ Documentos em `/documentacao` devem ter cópia em repositório ou drive corporativo.
 
 ---
 
-## 📚 Referências
+##  Referências
 
-- DAMA International. *DAMA-DMBOK: Data Management Body of Knowledge*. 2ª ed., 2017.
-- ISO/IEC 38505-1:2017 — *Information technology — Governance of IT — Governance of data*.
-- Lei Geral de Proteção de Dados (LGPD) — Lei nº 13.709/2018.
-- GitHub Docs. *About protected branches*. Disponível em: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
+ DAMA International. *DAMA-DMBOK: Data Management Body of Knowledge*. 2ª ed., 2017.
+ ISO/IEC 38505-1:2017 — *Information technology — Governance of IT — Governance of data*.
+ Lei Geral de Proteção de Dados (LGPD) — Lei nº 13.709/2018.
+ GitHub Docs. *About protected branches*. Disponível em: https://docs.github.com/en/repositories/configuring-branches-and-merges-in-your-repository/managing-protected-branches/about-protected-branches
 
 ---
 
